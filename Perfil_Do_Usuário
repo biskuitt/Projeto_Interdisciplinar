@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-br"> 
+<head>
+    <title>Perfil Alessandro</title>
+	
+    
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Blog Template">
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <link rel="shortcut icon" href="favicon.ico"> 
+    
+    <!-- FontAwesome JS-->
+    <script defer src="https://use.fontawesome.com/releases/v5.7.1/js/all.js" integrity="sha384-eVEQC9zshBn0rFj4+TU78eNA19HMNigMviK/PU/FFjLXqa/GKPgX58rvt5Z8PLs7" crossorigin="anonymous"></script>
+    
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/theme-1.css">
+
+</head> 
+
+<body>
+    
+    <header class="header text-center">	    
+	    <h1 class="blog-name pt-lg-4 mb-0"><a>TAVAJ</a></h1>
+        
+	    <nav class="navbar navbar-expand-lg navbar-dark" >
+           
+			
+
+			<div id="navigation" class="collapse navbar-collapse flex-column" >
+				<div class="profile-section pt-3 pt-lg-0">
+				    <img class="profile-image mb-3 rounded-circle mx-auto" src="assets/images/alessandro.jpeg" alt="image" ><!--IMAGEM DE PERFIL DO USUARIO CANTO SUPERIOR ESQUERDO DA TELA-->		
+					
+					<div ><br><a>FORMAÇÃO ACADÊMICA:
+								Cursando Técnico em Informática (Grau técnico)<br>
+								CONHECIMENTOS:
+								Informática – Pacote office e Internet, Montagem e manutenção de micros, instalação e
+								manutenção de sistemas operacionais, redes de computadores.</a></div><!-- DADOS PESSOAIS DO PROFISSIONAL EX: E-MAIL, TELEFONE E UMA BREVE DESCRIÇÃO DO SEU PERFIL-->
+					
+			        <hr> 
+				</div>
+				
+				
+				
+				<div class="my-2 my-md-3">
+				    <a class="btn btn-primary" href="C:\Users\grautecnico\Desktop\projeto\index.html" target="_parent">SAIR</a><!-- BOTÃO SAIR DO PERFIL COM LINK DE ACESSO A PAGINA DE VALIDAÇÃO-->
+
+				</div>
+			</div>
+		</nav>
+    </header>
+    
+    <div class="main-wrapper">
+	    <section class="cta-section theme-bg-light py-5">
+		    <div class="container text-center">
+			    <h2>Alessandro Ferreira de Oliveira</h2>
+			    <div class="intro">VENDAS DE 01/01/2021 À 01/02/2021<br>
+			    	<h1>R$150.000,00</h1></div>
+			    <form class="signup-form form-inline justify-content-center pt-3">
+                   
+            <a class="btn btn-primary" href="C:\Users\grautecnico\Desktop\projeto\DocumentoAnalitico.pdf" target="_blank">RELATÓRIO EQUIPE</a>
+                </form>
+		    </div><!--//container-->
+	    </section>
+	    <section class="blog-list px-3 py-5 p-md-5">
+		    <div class="container">
+			    <div class="item mb-5">
+				    <div class="media">
+					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/vinicius.jpeg" alt="image"><!-- FOTO DO PRIMEIRO USUÁRIO NA LISTA DE VENDAS-->
+					    <div class="media-body">
+						    <h3 class="title mb-1"><a>Vinicius</a></h3><!--Nome do usuário 1 na lista -->
+						    <div class="intro">Venda Mensal<br><h1>R$50.000,00</div>
+						    <div class="meta mb-1"><span class="date">Ultima venda a 3 dias</span>
+						    	<h3>R$1.200,00</h3></div>
+						    
+					    </div><!--//media-body-->
+				    </div><!--//media-->
+			    </div><!--//item-->
+			    <div class="item mb-5">
+				    <div class="media">
+					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/Anderson.jpeg" alt="image">
+					    <div class="media-body">
+						    <h3 class="title mb-1"><a href="blog-post.html">Anderson</a></h3><div class="meta mb-1">
+						    <div class="intro">Venda Mensal<br><h1>R$80.000,00</div></h1>
+						    <span class="date">Ultima venda a 4 dias</span><h3>R$1.050,00</h3></div>
+						    
+						    
+					    </div><!--//media-body-->
+				    </div><!--//media-->
+			    </div><!--//item-->
+			    
+			    <div class="item mb-5">
+				    <div class="media">
+					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/thiago.jpg" alt="image">
+					    <div class="media-body">
+						    <h3 class="title mb-1"><a href="blog-post.html">Thiago</a></h3><div class="meta mb-1">
+						    <div class="intro">Venda Mensal<br><h1>R$63.450,00</div></h1>
+						    <span class="date">Ultima venda a 2 dias</span><h3>R$980,00</h3></div>
+						    
+						    
+					    </div><!--//media-body-->
+				    </div><!--//media-->
+			    </div><!--//item-->
+			    <div class="item mb-5">
+				    <div class="media">
+					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/Junior.jpeg" alt="image">
+					    <div class="media-body">
+						    <h3 class="title mb-1"><a href="blog-post.html">Júnior</a></h3><div class="meta mb-1">
+						    <div class="intro">Venda Mensal<br><h1>R$96.170,00</div></h1>
+						    <span class="date">Ultima venda a 6 dias</span><h3>R$1.250,00</h3></div>
+						    
+						    
+					    </div><!--//media-body-->
+				    </div><!--//media-->
+			    </div><!--//item-->
+			    	
+		    </div>
+	    </section>
+	    
+	   
+    
+    </div><!--//main-wrapper-->
+    
+    
+    
+    
+   
+
+    
+       
+    <!-- Javascript -->          
+    <script src="assets/plugins/jquery-3.3.1.min.js"></script>
+    <script src="assets/plugins/popper.min.js"></script> 
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
+
+    <!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
+    <script src="assets/js/demo/style-switcher.js"></script>     
+    
+
+</body>
+</html> 
